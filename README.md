@@ -6,5 +6,6 @@ requirement
 -ruby compiler
 
 
-usage : ruby <filename>
+usage : ruby filepath
+
 result : random name
